@@ -38,7 +38,7 @@ section {
 }
 
 .section-icon img {
-    width: 50%; /* Ensures the image fills the circular container */
-    height: 50%;
-    object-fit: scale-down; /* Preserves the aspect ratio of the image */
+    width: 100%; /* Ensures the image fills the circular container */
+    height: 100%;
+    object-fit: cover; /* Preserves the aspect ratio of the image */
 }
