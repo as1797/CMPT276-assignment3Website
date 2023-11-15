@@ -13,3 +13,32 @@ header {
     color: goldenrod;
     text-align: center;
 }
+section {
+    padding: 2em;
+    border: 2px solid #ddd;
+    border-radius: 10px; /* Adds rounded corners */
+    margin: 10px; /* Adds some space between sections */
+    background-color: #f9f9f9;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.section-icon {
+    width: 30px; /* Set the width of the circular image */
+    height: 30px; /* Set the height of the circular image */
+    border-radius: 50%; /* Makes the image circular */
+    margin-right: 10px; /* Adds some space between the image and text */
+    background-color: #333; /* Background color of the circular image */
+    overflow: hidden;
+}
+
+.section-icon img {
+    width: 100%; /* Ensures the image fills the circular container */
+    height: 100%;
+    object-fit: cover; /* Preserves the aspect ratio of the image */
+}
