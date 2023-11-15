@@ -29,8 +29,8 @@ section {
 }
 
 .section-icon {
-    width: 30px; /* Set the width of the circular image */
-    height: 30px; /* Set the height of the circular image */
+    width: 10px; /* Set the width of the circular image */
+    height: 10px; /* Set the height of the circular image */
     border-radius: 50%; /* Makes the image circular */
     margin-right: 10px; /* Adds some space between the image and text */
     background-color: #333; /* Background color of the circular image */
@@ -38,7 +38,7 @@ section {
 }
 
 .section-icon img {
-    width: 100%; /* Ensures the image fills the circular container */
-    height: 100%;
-    object-fit: cover; /* Preserves the aspect ratio of the image */
+    width: 50%; /* Ensures the image fills the circular container */
+    height: 50%;
+    object-fit: scale-down; /* Preserves the aspect ratio of the image */
 }
