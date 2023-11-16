@@ -23,9 +23,9 @@ main
 
 section 
 {
-    width: 100%;
-    padding: 1em;
-    border: 1px solid lightslategray;
+    width: 80%;
+    padding: 2em;
+    border: 2px solid lightslategray;
     border-radius: 10px;
     margin-bottom: 30px;
     background-color: lightgrey;
