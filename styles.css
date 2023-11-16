@@ -27,6 +27,8 @@ section
     padding: 2em;
     border: 2px solid lightslategray;
     border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 40px;
     background-color: lightgrey;
 }
