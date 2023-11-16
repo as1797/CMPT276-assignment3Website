@@ -2,27 +2,34 @@ body {
     font-family: Verdana, Geneva, sans-serif;
     margin: 0;
     padding: 0;
-    height: 100vh;
+    box-sizing: border-box;
     background-color: antiquewhite;
 }
-
 header {
     color: goldenrod;
     text-align: center;
+    padding: 15px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    padding: 15px;
 }
 
 section {
+    width: 100%;
     padding: 2em;
     border: 2px solid lightslategray;
     border-radius: 10px;
-    margin: 10px;
+    margin-bottom: 15px;
     background-color: lightgrey;
 }
 
 .section-header {
     display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
     margin-bottom: 10px;
 }
 
