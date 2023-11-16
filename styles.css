@@ -1,7 +1,7 @@
 body {
     font: sans-serif;
-    margin: 0.25;
-    padding: 0.25;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     background-color: antiquewhite;
 }
@@ -23,7 +23,7 @@ main
 
 section 
 {
-    width: 80%;
+    width: 90%;
     padding: 2em;
     border: 2px solid lightslategray;
     border-radius: 10px;
