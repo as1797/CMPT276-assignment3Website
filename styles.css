@@ -26,6 +26,7 @@ header
     font-size: 14px;
     padding: 5px 10px;
     border-radius: 5px;
+    background-color:antiquewhite;
 }
 
 .main-nav a:hover 
