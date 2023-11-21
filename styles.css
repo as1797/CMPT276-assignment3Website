@@ -25,7 +25,14 @@ header
     color:gray;
     font-size: 14px;
     padding: 5px 10px;
+    border-radius: 5px;
 }
+
+.main-nav a:hover 
+{
+    background-color:antiquewhite;
+}
+
 main 
 {
     display: flex;
