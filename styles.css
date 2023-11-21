@@ -13,6 +13,27 @@ header
     padding: 10px;
 }
 
+.main-nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.main-nav a 
+{
+    text-decoration: none;
+    color:red;
+    font-size: 14px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color:white;
+}
+
+.main-nav a:hover 
+{
+    background-color:whitesmoke;
+}
+
 main 
 {
     display: flex;
@@ -54,17 +75,20 @@ section
     object-fit: cover;
     border-radius: 50%;
 }
-.section-body p {
+.section-body p
+{
     color: Black;
     font-size: 20px;
     margin-bottom: 10px; 
 }
-.section-body h3 {
+.section-body h3 
+{
     color: Black;
     font-size: 32px;
     margin-bottom: 6px; 
 }
-.job-date {
+.job-date 
+{
     color: black;
     font-size: 16px; 
 }
@@ -73,7 +97,8 @@ section
     list-style-type: disc; 
     margin-left: 20px;
 }
-.section-content li {
+.section-content li 
+{
     margin-bottom: 6px; 
     text-decoration: none;
 }
