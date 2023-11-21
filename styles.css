@@ -54,14 +54,8 @@ section
     object-fit: cover;
     border-radius: 50%;
 }
-.section-body
-{
-    font-size: 24px;
-    line-height: 2;
-    color: black;
-}
 .section-body h3 {
-    color: darkgray;
+    color: Black;
     font-size: 32px;
     line-height: 2;
 }
@@ -72,8 +66,9 @@ section
 }
 .section-content li {
     margin-bottom: 6px; 
+    text-decoration: none;
 }
 .job-date {
-    color: darkgray;
+    color: #818589;
     font-size: 30px; 
 }
