@@ -73,19 +73,19 @@ section
 }
 .section-body p
 {
-    color: DimGray;
+    color: black;
     font-size: 20px;
     margin-bottom: 10px; 
 }
 .section-body h3 
 {
-    color: DimGray;
+    color: black;
     font-size: 32px;
     margin-bottom: 6px; 
 }
 .job-date 
 {
-    color: DimGray;
+    color: black;
     font-size: 16px; 
 }
 .section-body u
