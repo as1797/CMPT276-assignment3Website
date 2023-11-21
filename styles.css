@@ -22,18 +22,10 @@ header
 .main-nav a 
 {
     text-decoration: none;
-    color:red;
+    color:gray;
     font-size: 14px;
     padding: 5px 10px;
-    border-radius: 5px;
-    background-color:white;
 }
-
-.main-nav a:hover 
-{
-    background-color:whitesmoke;
-}
-
 main 
 {
     display: flex;
