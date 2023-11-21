@@ -54,6 +54,11 @@ section
     object-fit: cover;
     border-radius: 50%;
 }
+.section-body p {
+    color: Black;
+    font-size: 20px;
+    margin-bottom: 10px; 
+}
 .section-body h3 {
     color: Black;
     font-size: 32px;
