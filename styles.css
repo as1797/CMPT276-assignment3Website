@@ -8,7 +8,7 @@ body {
  
 header 
 {
-    color: #31302F;
+    color: DimGray;
     text-align: center;
     padding: 10px;
 }
@@ -73,19 +73,19 @@ section
 }
 .section-body p
 {
-    color: #31302F;
+    color: DimGray;
     font-size: 20px;
     margin-bottom: 10px; 
 }
 .section-body h3 
 {
-    color: #31302F;
+    color: DimGray;
     font-size: 32px;
     margin-bottom: 6px; 
 }
 .job-date 
 {
-    color: #31302F;
+    color: DimGray;
     font-size: 16px; 
 }
 .section-body u
