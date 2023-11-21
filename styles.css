@@ -57,18 +57,17 @@ section
 .section-body h3 {
     color: Black;
     font-size: 32px;
-    line-height: 2;
+}
+.job-date {
+    color: black;
+    font-size: 20px; 
 }
 .section-body u
 {
     list-style-type: disc; 
-    margin-left: 15px;
+    margin-left: 20px;
 }
 .section-content li {
     margin-bottom: 6px; 
     text-decoration: none;
-}
-.job-date {
-    color: #818589;
-    font-size: 20px; 
 }
